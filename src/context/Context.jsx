@@ -12,7 +12,7 @@ const ContextProvider = (props) => {
   const [resultData, setResultData] = useState("");
 
   // [SECTION] API Configuration
-  const apiKey = process.env.REACT_APP_API_KEY;  
+  const apiKey = "AIzaSyAuQ1v2QiAtjUUX-kxG9A41YMbHjOTlYCc";  
   const model = 'gemini-2.0-flash';  
   const config = {
     responseMimeType: 'text/plain',
