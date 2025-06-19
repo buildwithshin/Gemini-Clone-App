@@ -11,7 +11,7 @@ import {
 
 async function main() {
   const ai = new GoogleGenAI({
-    apiKey: 'AIzaSyAuQ1v2QiAtjUUX-kxG9A41YMbHjOTlYCc',  
+    apiKey: process.env.REACT_APP_API_KEY,  
   });
   const config = {
     responseMimeType: 'text/plain',
