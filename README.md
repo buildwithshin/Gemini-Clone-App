@@ -2,6 +2,11 @@
 
 This project is a clone of the Gemini app, built using React.js. It demonstrates the use of various React features including components, context, hooks, and state management. The app is structured to replicate the functionality of the original Gemini app, featuring an interactive UI with a sidebar and different icons. It also integrates Google API and Google AI Studio for enhanced functionality.
 
+## 🔗 Live Website
+
+🌐 [Visit the Live Site](https://gemini-clone-application-version-2.netlify.app/)  
+
+
 ## Features
 
 - **Sidebar Navigation**: Allows for easy navigation through various sections.
